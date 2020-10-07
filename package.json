@@ -25,6 +25,7 @@
   "homepage": "https://github.com/yankouskia/additional_5#readme",
   "dependencies": {
     "colors": "^1.4.0",
+    "node": "^12.1.0",
     "semver": "^6.3.0"
   }
 }
